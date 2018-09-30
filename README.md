@@ -2,6 +2,6 @@
 git test
 this is  a test for learning git.
 
-#shopping list
+# shopping list
 mango
 apple
