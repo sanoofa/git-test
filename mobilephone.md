@@ -1,0 +1,3 @@
+# mobile
+-samsung
+-redni
